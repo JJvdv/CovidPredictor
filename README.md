@@ -9,6 +9,10 @@ The prediction is displayed using FastAPI in JSON format {date, new_cases} respe
 
 PLEASE NOTE: I am only predicting 7 days from the final day that Worldometer recorded new cases on a daily basis. From what I have seen Wolrdometer stopped recording new data in April 2023.
 
+![Forcast Plot](foreast_plot.png)
+
+![Timeseries Plot](timeseries_predict.png)
+
 - Statsmodels (ARIMA)
 - Numpy
 - Sci-kit Learn
